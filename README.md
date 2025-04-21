@@ -17,7 +17,7 @@
 - UI/UX design for mobile apps
 
 🎓 Education
-Yasar University – Industrial Engineering
+- Yasar University – Industrial Engineering
 
 
 
