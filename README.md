@@ -11,6 +11,7 @@
 - [To Do List App](https://github.com/Cataltug/TodoListChallengeApp) – A simple and efficient to-do list application built with React Native. It allows users to add, delete, helping them manage daily tasks with ease.
 - [Pokedex with PvP Battle System](https://github.com/Cataltug/EnhancedPokedex) - Enhanced version of a Pokémon Pokedex web app, originally built following a YouTube tutorial of https://github.com/Berkantcen. I added several custom features to improve functionality and make the app more interactive.
 - [Text-Based Role Playing Game](https://github.com/Cataltug/JavaScript-RPG) -  Built in JavaScript as part of the JavaScript Algorithms and Data Structures certification on freeCodeCamp.
+- [My Web Projects Repository](https://github.com/Cataltug/Web-Practices) - This repository serves as a central hub for the various web projects I’ve built using JavaScript, HTML and CSS. Each project lives in its own folder with detailed documentation.
 
 📚 Currently Learning
 - Advanced React Native concepts
